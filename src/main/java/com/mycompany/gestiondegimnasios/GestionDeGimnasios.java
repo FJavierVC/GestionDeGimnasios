@@ -1,6 +1,5 @@
 
 package com.mycompany.gestiondegimnasios;
-
 /**
  *
  * @author Francisco Javier Valdez Cuellar
